@@ -1,7 +1,7 @@
 # Unlocking Opportunities: Glassdoor Job Market Analysis
 This project is designed to empower entry-level data analysts in today's competitive job market by leveraging web scraping techniques to gather up-to-date job listings from [Glassdoor.com](https://www.glassdoor.com/Job/united-states-data-analyst-jobs-SRCH_IL.0,13_IN1_KO14,26.htm). It offers valuable insights into prime job locations, in-demand skills sought by employers, top-paying sectors, leading companies, as well as comprehensive salary and company-related data analysis.
 
-Tableau: [Link](https://public.tableau.com/views/GlassdoorInsights-DataAnalyst/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+Tableau Dashboard: [Link](https://public.tableau.com/views/GlassdoorInsights-DataAnalyst/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## Data Flow 
 
 ![Data Flow](readme_images/data_flow.png)
